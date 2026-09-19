@@ -175,7 +175,8 @@ After completing this program, you will understand:
 
 ## 👨‍💻 Author
 
-**Sandeep**
+**praval
+**
 
 ---
 
